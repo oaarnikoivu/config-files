@@ -6,7 +6,7 @@
 
 ## install tmux
 
-- [installation guide]([https://github.com/tmux/tmux/wiki/Installing)
+- [installation guide](https://github.com/tmux/tmux/wiki/Installing)
 
 ## install opencode
 

@@ -2,11 +2,11 @@
 
 ## install neovim
 
-- ![https://github.com/neovim/neovim/blob/master/INSTALL.md]
+- ![installation guide](https://github.com/neovim/neovim/blob/master/INSTALL.md)
 
 ## install tmux
 
-- ![https://github.com/tmux/tmux/wiki/Installing]
+- ![installation guide([https://github.com/tmux/tmux/wiki/Installing)
 
 ## install opencode
 

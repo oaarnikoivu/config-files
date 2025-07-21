@@ -1,4 +1,4 @@
-[Workflow example screenshot](images/screenshot.png)
+(images/screenshot.png)
 
 # setup
 

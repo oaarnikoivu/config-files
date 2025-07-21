@@ -1,3 +1,5 @@
+[Workflow example screenshot](images/screenshot.png)
+
 # setup
 
 ## install neovim

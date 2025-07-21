@@ -8,6 +8,10 @@
 
 - [installation guide](https://github.com/tmux/tmux/wiki/Installing)
 
+## install tmuxifier
+
+- [installation guide](https://github.com/jimeh/tmuxifier)
+
 ## install opencode
 
 ```bash
